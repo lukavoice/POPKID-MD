@@ -54,7 +54,7 @@
 
 # 🎯 **Project Overview**
 
-> **POPKID-MD** is a high-speed, feature-rich WhatsApp bot designed for performance, stability, and ease of use. Developed with passion by **popkid**.
+> **MRKM-MD** is a high-speed, feature-rich WhatsApp bot designed for performance, stability, and ease of use. Developed with passion by **mrkm**.
 
 ---
 
@@ -71,7 +71,7 @@
 
 ## 📦 **Repository**
 
-[![GitHub Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/popkidmd/POPKID-MD)
+[![GitHub Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/popkidmd/MRKM-MD)
 
 ---
 
@@ -83,4 +83,4 @@
 
 ## ©️ **Creator**
 
-Developed with ❤️ by **popkid**.
+Developed with ❤️ by **MR KM HACKER**.
